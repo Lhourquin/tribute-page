@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-!["Logo freeCodeCamp"](https://en.wikipedia.org/wiki/FreeCodeCamp#/media/File:FreeCodeCamp_logo.png )
+![Logo freeCodeCamp](https://commons.wikimedia.org/wiki/File:FreeCodeCamp_logo.png#/media/File:FreeCodeCamp_logo.png)
 
 ## Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
