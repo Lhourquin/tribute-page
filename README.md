@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-![alt text](https://commons.wikimedia.org/wiki/File:FreeCodeCamp_logo.png#/media/File:FreeCodeCamp_logo.png)
+![alt text](https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png)
 
 ## Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
@@ -32,4 +32,4 @@
 
 - Remember to use the Read-Search-Ask method if you get stuck.
 
-###### Source of image : https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiEvO_alZLjAhUByIUKHcSDC4AQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFreeCodeCamp&psig=AOvVaw0JuZI-cinYHpIaUAEl-XvN&ust=1562017209851502
+###### Source of image : https://vectorlogoseek.com/freecodecamp-vector-logo-svg/
